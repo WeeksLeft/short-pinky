@@ -135,7 +135,7 @@ return
 ; Uncomment below as needed
 
 ; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; Text expanders e.g. when I type rem, it automatically puts my email in
+; Text expanders e.g. when I type rem<space>, it automatically puts my email in. Similarly, put in your address or number for example and it'll autoexpand.
 
 ; ::rem::edwin@weeksoutstanding.com
 ; ::rnum::<insert number>
