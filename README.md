@@ -26,14 +26,16 @@ I'd hesitate to run a .exe file from the internet so I thought it's best I put t
 I've still included the .exe file that I've created for ease of friends, but use that at your own risk. 
 
 ## Installation method 1 - .exe file
-This is the easiest method. Just download the .exe file and run it.
+This is the easiest method. Just download the .exe file and run it. 
+This comes with a scary message that it's "not commonly downloaded and may be dangerous".
+Unless you know me personally, I'd recommend installation method 2 just so you have some peace of mind (and eventually can personalise your script).
 
 ## Installation method 2 - .ahk file
 This is better for eventual customisation (see Bonus section below).
 1. Download ahk from https://www.autohotkey.com/
-2. Clone the repo, or download the lazyhands.ahk file
-3. Run the script
-4. [optional but probably ideal] Add this to your startup folder so that it automatically runs on startup, if you like it
+2. Clone the repo, or download the lazyhands.ahk file (better, so that you can read through it)
+3. Run the .ahk script
+4. [optional, but probably ideal] Add this to your startup folder so that it automatically runs on startup, if you like it
 
 ## Credits
 1. [Joanne Li - Keeybs — 80% TKL Keyboard Kit figma file](https://www.figma.com/community/file/949387012289800289), which was used to create some of the visuals 
@@ -47,8 +49,6 @@ Sorry that AutoHotkey is a Windows-only tool. It's been some time since I've set
 ### Bonus
 PS - at the end of the .ahk file, I've commented out some other useful scripts. 
 Just remove the semicolons and re-run the script :) examples include:
-- ctrl-shift-g automatically searches google the highlighted text
+- ctrl-shift-g automatically searches google for the highlighted text
 - ctrl-shift-j / k / l insert tags at the start of the line I'm typing on
 - ctrl-shift-space runs a program (I use this as a global shortcut to quickly add todos to my list)
-
-
