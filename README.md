@@ -34,8 +34,9 @@ Unless you know me personally, I'd recommend installation method 2 just so you h
 This is better for eventual customisation (see Bonus section below).
 1. Download ahk from https://www.autohotkey.com/
 2. Clone the repo, or download the lazyhands.ahk file (better, so that you can read through it)
-3. Run the .ahk script
-4. [optional, but probably ideal] Add this to your startup folder so that it automatically runs on startup, if you like it
+3. Run the .ahk script (this should appear as a green "H" in your taskbar, in the bottom right)
+4. You should be good to go - try moving your cursor around Word or Notepad using the new layer (hold down Alt and press j/k/l/i)
+5. [optional, but probably ideal] Add this to your startup folder so that it automatically runs on startup, if you like it
 
 ## Credits
 1. [Joanne Li - Keeybs — 80% TKL Keyboard Kit figma file](https://www.figma.com/community/file/949387012289800289), which was used to create some of the visuals 
